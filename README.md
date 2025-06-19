@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @code2genes
-- 👀 Passionate about cancer research, bioinformatic and biostatistic 
+- 👀 Passionate about cancer research, bioinformatics and biostatistics
 - 📫 How to reach me: code2genes@gmail.com
 
 <!---
