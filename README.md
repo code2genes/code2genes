@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @code2genes
-- 👀 Passionate about cancer research, bioinformatics and biostatistics
+### Hi there 👋
+My name is Nerea, and I am a Bioinformatician passionate about science, AI programming and biomedical research.
+
+- I am currently updating my profile with scripts for omics data analysis. Repositories will be added soon — stay tuned!
 - 📫 How to reach me: code2genes@gmail.com
 
 <!---
